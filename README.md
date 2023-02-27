@@ -7,7 +7,7 @@ This repository contains the coded used for the A. Cilleros-Portet et al.2023, a
 5. Over-representation analysis with Gene Onthology and Kyoto Encyclopedia of Genes and Genomes ([missMethyl_GSE.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/missMethyl_GSE.R)).
 6. Illumina annotation enrichment chi-square tests ([enrichment.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/enrichment.R)).
 7. Select CpG list for eFORGE analysis ([CpGlist_eFORGE.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/CpGlist_eFORGE.R)).
-8. Formatting GWAS summary-statistics for SMR ([checkalleles_maformat.R)[https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/checkalleles_maformat.R]).
+8. Formatting GWAS summary-statistics for SMR ([checkalleles_maformat.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/checkalleles_maformat.R)).
 9. Formatting mQTL database for SMR ([getFastQTL_format.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/getFastQTL_format.R)).
 10. Run mutli-SNP based SMR test ([runSMR.sh](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/runSMR.sh)).
 11. Run colocalization test ([coloc.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/coloc.R))
