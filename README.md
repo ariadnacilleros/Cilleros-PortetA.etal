@@ -1,4 +1,4 @@
-# Cilleros-PortetA.etal
+# Description of the code from A. Cilleros-Portet et al.2023
 This repository contains the coded used for the A. Cilleros-Portet et al.2023, and the scripts are described as follows. 
 1. Map of cis-mQTLs with TensorQTL nominal approach ([tensorqtl_nominal.py](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/tensorqtl_nominal.py)). 
 2. Map of cis-mQTLs with TensorQTL permuted and conditional approach ([tensorqtl_permuted_conditional.py](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/tensorqtl_permuted_conditional.py)).
