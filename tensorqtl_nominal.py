@@ -10,9 +10,9 @@ print(f'PyTorch {torch.__version__}')
 print(f'Pandas {pd.__version__}')
 
 # Define paths to data
-plink_prefix_path = './wg_filt_maf05_hwe05_multiallelic_chrpos'
-expression_bed = './nominalINMA_betas_0based.bed.gz'
-covariates_file = './maf05_hwe05_COV_sex_PC5_planet.txt'
+plink_prefix_path = './plink_prefix_path'
+expression_bed = './expression_bed.bed.gz'
+covariates_file = './covariates_file.txt'
 prefix = './INMA_nominal'
 
 # Load phenotypes and covariates
