@@ -11,6 +11,7 @@ This repository contains the coded used for the A. Cilleros-Portet et al.2023, a
 9. Formatting mQTL database for SMR ([getFastQTL_format.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/getFastQTL_format.R)).
 10. Run mutli-SNP based SMR test ([runSMR.sh](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/runSMR.sh)).
 11. Run colocalization test ([coloc.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/coloc.R))
-12. Condition analysis of the GWAS summary-statistics ([conditional_GWAS.r](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_GWAS.r)).
-13. Condition analysis of the mQTLs summary-statistics ([conditional_mQTLs.r](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_mQTLs.r)). 
-14. Run multi-SNP based SMR test using the conditional GWAS and mQTL summary-statistics ([conditional_SMR.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_SMR.R)).
+12. Classify cell-type interacting-mQTLs according to [Kim-Hellmuth et al.2020](https://www.science.org/doi/10.1126/science.aaz8528) interpretation ([classify_imQTLs.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/classify_imQTLs.R)).
+13. Condition analysis of the GWAS summary-statistics ([conditional_GWAS.r](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_GWAS.r)).
+14. Condition analysis of the mQTLs summary-statistics ([conditional_mQTLs.r](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_mQTLs.r)). 
+15. Run multi-SNP based SMR test using the conditional GWAS and mQTL summary-statistics ([conditional_SMR.R](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/conditional_SMR.R)).
