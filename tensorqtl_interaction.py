@@ -42,3 +42,8 @@ cis.map_nominal(genotype_df, variant_df, phenotype_df, phenotype_pos_df, prefix,
                 interaction_s=interaction_s, 
 				window=500000, 
 				output_dir='./', write_top=True, write_stats=True)
+
+# Write .parquet to .txt
+for x in range(1,23):
+	pairs_df = pd.read_parquet(f'{prefix}.cis_qtl_pairs.{x}.parquet')
+	pairs_df.to_csv(f'./interaction_database.{x}.txt', header=True, index=False, sep='\\t')
