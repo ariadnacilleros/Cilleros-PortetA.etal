@@ -9,7 +9,7 @@ Increasing evidence supports the role of placenta in neurodevelopment and potent
 Placental mQTLs browser: ()[]
 
 ## ReadMe 
-This repository contains the coded used for the A. Cilleros-Portet et al.2023, and the scripts are described as follows. 
+This repository contains the coded used for the A. Cilleros-Portet et al. 2023, and the scripts are described as follows. 
 1. Map of cis-mQTLs with TensorQTL nominal approach ([tensorqtl_nominal.py](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/tensorqtl_nominal.py)). 
 2. Map of cis-mQTLs with TensorQTL permuted and conditional approach ([tensorqtl_permuted_conditional.py](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/tensorqtl_permuted_conditional.py)).
 3. Map of interacting cis-mQTLs with TensorQTL interaction approach ([tensorqtl_interaction.py](https://github.com/ariadnacilleros/Cilleros-PortetA.etal/blob/main/tensorqtl_interaction.py)).
