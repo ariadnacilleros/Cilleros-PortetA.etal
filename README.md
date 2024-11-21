@@ -1,5 +1,7 @@
 ## Potentially causal associations between placental DNA methylation and schizophrenia and other neuropsychiatric disorders
 
+[![DOI](https://zenodo.org/badge/594034394.svg)](https://doi.org/10.5281/zenodo.14198404)
+
 [**Ariadna Cilleros-Portet**](ariadna.cilleros@ehu.eus), Corina Lesseur, Sergi Marí, Marta Cosin-Tomas, Manuel Lozano, Amaia Irizar, Amber Burt, Iraia García-Santisteban, Diego Garrido Martín, Geòrgia Escaramís, Alba Hernangomez-Laderas, Raquel Soler-Blasco, Charles E Breeze, Bárbara P Gonzalez-Garcia, Loreto Santa-Marina, Jia Chen, Sabrina Llop, Mariana F Fernández, Martine Vrijhed, Jesús Ibarluzea, Mònica Guxens, Carmen Marsit, Mariona Bustamante, Jose Ramon Bilbao, [**Nora Fernandez-Jimenez**](nora.fernandez@ehu.eus)
 
 Department of Genetics, Physical Anthropology and Animal Physiology, Biocruces-Bizkaia Health Research Institute and University of the Basque Country (UPV/EHU), Leioa, Spain.
